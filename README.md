@@ -1,3 +1,3 @@
 # halloween.github.io
 
-[Click here for deployment](https://ashraftajuddin.github.io/dci-digitalOrientationCourse-microsite-halloweenTheme/){target="_blank"}.
+<a href="http://example.com/" target="_blank">Hello, world!</a>
